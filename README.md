@@ -1,6 +1,6 @@
 # elite-eats-api
 
-## API that serves the Finnder app
+## API that serves the elite-eats app
 
 ## Running the API
 Use Docker. Run `docker-compose up`
